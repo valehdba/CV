@@ -40,21 +40,21 @@ Nov 2023 – Present
 **Database Administrator & Supervisor (Contract) **  
 UN Climate Change & Kronos, Baku, Azerbaijan  
 Oct 2024 - Nov 2024 
-MS SQL Server Management and monitoring.
-Troubleshooting Database and system infrastructure-related issues.
-Working in cooperation with Secure Printing Application Managers and System Admins.
-Instant communication with NOC/SOC to solve complex issues directly.
-Supervising and coordinating ICT Onsite Support Technicians within the assigned zone
+- MS SQL Server Management and monitoring.
+- Troubleshooting Database and system infrastructure-related issues.
+- Working in cooperation with Secure Printing Application Managers and System Admins.
+- Instant communication with NOC/SOC to solve complex issues directly.
+- Supervising and coordinating ICT Onsite Support Technicians within the assigned zone
 during the deployment period and event time.
-Providing advanced technical support to the ICT onsite team for complex issues.
-Providing support and escalation between Team Leads and NOC/SOC.
-Addressing and resolving issues that team leads are unable to handle.
-Providing Event Management, ServiceDesk Management support.
-Preparing reports regarding the problems faced during the event.
-Coordination with Helpdesk Team and ICT Support Team Leads.
-Follow up on ICT Onsite Team operations and activities in the field.
-Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
-Reporting to the Head of ICT Onsite Support and the Senior Service Manager.
+- Providing advanced technical support to the ICT onsite team for complex issues.
+- Providing support and escalation between Team Leads and NOC/SOC.
+- Addressing and resolving issues that team leads are unable to handle.
+- Providing Event Management, ServiceDesk Management support.
+- Preparing reports regarding the problems faced during the event.
+- Coordination with Helpdesk Team and ICT Support Team Leads.
+- Follow up on ICT Onsite Team operations and activities in the field.
+- Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
+- Reporting to the Head of ICT Onsite Support and the Senior Service Manager.
 
 **Freelance Database Administrator & Consultant**  
 LSIM LLC - Mobile SMS provider, Baku, Azerbaijan  
