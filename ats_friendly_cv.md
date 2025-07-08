@@ -25,7 +25,7 @@ Jan 2018 – Present
 - Ensure database security compliance and manage user access controls.
 - Support Linux (RHEL/CentOS) system administration for database environments.
 
-**Database Administrator & Consultant (Part-time) **  
+**Database Administrator & Consultant (Part-time)**  
 Kibrit LLC - Software Development Company, Baku, Azerbaijan  
 Nov 2023 – Present
 - Planning and migration of the Database from Oracle to PostgreSQL.
@@ -37,7 +37,7 @@ Nov 2023 – Present
 - Converted the required big tables to partitioned tables.
 - Installed and configured useful PostgreSQL extensions and monitoring tools.
 
-**Database Administrator & Supervisor (Contract) **  
+**Database Administrator & Supervisor (Contract)**  
 UN Climate Change & Kronos, Baku, Azerbaijan  
 Oct 2024 - Nov 2024 
 - MS SQL Server Management and monitoring.
@@ -56,13 +56,21 @@ during the deployment period and event time.
 - Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
 - Reporting to the Head of ICT Onsite Support and the Senior Service Manager.
 
-**Freelance Database Administrator & Consultant**  
+**Database Administrator & Consultant (Part-time)**  
 LSIM LLC - Mobile SMS provider, Baku, Azerbaijan  
 Sep 2023 – Present
 - Provided performance-tuning services to optimize existing database environments.
 - Provided remote Oracle and MySQL database administration, ensuring system stability and data integrity.
 - Designed and implemented backup and disaster recovery plans for clients.
 - Monitoring, troubleshooting, and support of 24/7 mission-critical Oracle and MySQL databases
+
+**Freelance Database Administrator**
+Konfirom, Feb 2018 - May 2018
+- Migrating Database and Appservers of the ArmoStore supermarket chains
+- Installed and configured new Oracle Linux Database and Application Servers.
+- Configured the Application to work with the new Application and Database Servers.
+- Migrated Oracle Databases from old infrastructure to new servers.
+- Installed and configured Oracle Data Guard, and prepared Oracle backup and recovery strategies.
 
 **Technical Skills**
 
