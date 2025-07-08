@@ -14,7 +14,7 @@ Experienced Database Administrator with 10+ years managing, tuning, and automati
 **Professional Experience**
 
 **Database Administrator**  
-IKTEX LLC, Baku, Azerbaijan  
+IKTEX LLC - Software Development Company, Baku, Azerbaijan  
 Jan 2018 – Present
 
 - Manage Oracle (10g/11g/12c/19c/21c) and PostgreSQL database installations, configuration, and administration for high-availability systems.
@@ -25,24 +25,26 @@ Jan 2018 – Present
 - Ensure database security compliance and manage user access controls.
 - Support Linux (RHEL/CentOS) system administration for database environments.
 
-**Freelance Database Administrator & Consultant**  
-Remote  
-2015 – 2018
 
-- Provided remote Oracle and PostgreSQL database administration for SMEs and startups, ensuring system stability and data integrity.
-- Designed and implemented backup and disaster recovery plans for clients.
-- Provided performance-tuning services to optimize existing database environments.
-
-**Part-time Database Administrator & Consultant**  
-Kibrit LLC, Baku, Azerbaijan  
+**Database Administrator & Consultant (Part-time) **  
+Kibrit LLC - Software Development Company, Baku, Azerbaijan  
 Nov 2023 – Present
-Planning and migration of the Database from Oracle to PostgreSQL.
-Upgraded PostgreSQL database from old version to new major version.
-Installed and configured new PostgreSQL database Servers.
-Prepared scripts for migration and configured the DB for optimal migration speed with minimum downtime. After migration, reconfigured the DB for optimal OLTP performance.
-Configured Replication, Physical, and logical Backups to the remote backup server.
-Converted the required big tables to partitioned tables.
-Installed and configured useful PostgreSQL extensions and monitoring tools.
+- Planning and migration of the Database from Oracle to PostgreSQL.
+- Upgraded PostgreSQL database from old version to new major version.
+- Installed and configured new PostgreSQL database Servers.
+- Designed and implemented backup and disaster recovery plans for clients.
+- Prepared scripts for migration and configured the DB for optimal migration speed with minimum downtime. After migration, reconfigured the DB for optimal OLTP performance.
+- Configured Replication, Physical, and logical Backups to the remote backup server.
+- Converted the required big tables to partitioned tables.
+- Installed and configured useful PostgreSQL extensions and monitoring tools.
+
+**Freelance Database Administrator & Consultant**  
+LSIM LLC - Mobile SMS provider, Baku, Azerbaijan  
+Sep 2023 – Present
+- Provided performance-tuning services to optimize existing database environments.
+- Provided remote Oracle and MySQL database administration, ensuring system stability and data integrity.
+- Designed and implemented backup and disaster recovery plans for clients.
+- Monitoring, troubleshooting, and support of 24/7 mission-critical Oracle and MySQL databases
 
 **Technical Skills**
 
