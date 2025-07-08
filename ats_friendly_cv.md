@@ -15,7 +15,7 @@ Experienced Database Administrator with 10+ years managing, tuning, and automati
 
 **Database Administrator**  
 IKTEX LLC - Software Development Company, Baku, Azerbaijan  
-Jan 2018 – Present
+January 2018 – Present
 
 - Manage Oracle (10g/11g/12c/19c/21c) and PostgreSQL database installations, configuration, and administration for high-availability systems.
 - Implement and monitor RMAN backup strategies, Data Guard configurations, and RAC for mission-critical environments.
@@ -27,7 +27,7 @@ Jan 2018 – Present
 
 **Database Administrator & Consultant (Part-time)**  
 Kibrit LLC - Software Development Company, Baku, Azerbaijan  
-Nov 2023 – Present
+November 2023 – Present
 - Planning and migration of the Database from Oracle to PostgreSQL.
 - Upgraded PostgreSQL database from old version to new major version.
 - Installed and configured new PostgreSQL database Servers.
@@ -39,7 +39,7 @@ Nov 2023 – Present
 
 **Database Administrator & Supervisor (Contract)**  
 UN Climate Change & Kronos, Baku, Azerbaijan  
-Oct 2024 - Nov 2024 
+October 2024 - Nov 2024 
 - MS SQL Server Management and monitoring.
 - Troubleshooting Database and system infrastructure-related issues.
 - Working in cooperation with Secure Printing Application Managers and System Admins.
@@ -58,14 +58,14 @@ during the deployment period and event time.
 
 **Database Administrator & Consultant (Part-time)**  
 LSIM LLC - Mobile SMS provider, Baku, Azerbaijan  
-Sep 2023 – Present
+September 2023 – Present
 - Provided performance-tuning services to optimize existing database environments.
 - Provided remote Oracle and MySQL database administration, ensuring system stability and data integrity.
 - Designed and implemented backup and disaster recovery plans for clients.
 - Monitoring, troubleshooting, and support of 24/7 mission-critical Oracle and MySQL databases
 
 **Freelance Database Administrator**
-Konfirom, Feb 2018 - May 2018
+Konfirom, February 2018 - May 2018
 - Migrating Database and Appservers of the ArmoStore supermarket chains
 - Installed and configured new Oracle Linux Database and Application Servers.
 - Configured the Application to work with the new Application and Database Servers.
