@@ -85,7 +85,7 @@ February 2018 to May 2018
 **Certifications:**
 
   - Kubernetes and Cloud-Native Associate (KCNA)
-  - EDB Certified - PostgreSQL Advanced 16
+  - PostgreSQL Advanced 16 - EDB Certified 
   - MongoDB Certified Database Administrator
   - Oracle Database 11g Performance Tuning Certified Expert
   - Oracle RAC 11g and Grid Infrastructure Administration Certified Expert
