@@ -58,8 +58,8 @@ during the deployment period and event time.
 **Database Administrator & Consultant (Part-time)**  
 LSIM LLC | Mobile SMS provider, Baku, Azerbaijan  
 September 2023 to Present
-- Performance-tuning to optimize existing database environments.
-- Oracle and MySQL database administration, ensuring system stability and data integrity.
+- Optimized database performance queries by applying different optimization methods like indexing, partitioning, SQL plan forcing, etc.
+- Administered mission-critical Oracle and MySQL databases with a focus on performance, ensuring system stability and data integrity.
 - Planned and deployed robust backup and disaster recovery solutions, safeguarding client data and minimizing downtime.
 - Monitoring, troubleshooting, and support of 24/7 mission-critical Oracle and MySQL databases
 
@@ -83,28 +83,19 @@ February 2018 to May 2018
 ---
 
 **Certifications:**
-  - MySQL 8.0 Database Administrator Certified Professional
-  - MySQL Implementation Certified Associate
-  - KCNA: Kubernetes and Cloud Native Associate
+
   - Kubernetes and Cloud-Native Associate (KCNA)
   - EDB Certified - PostgreSQL Advanced 16
-  - Certified in Cybersecurity (CC)
-  - EDB Certified Associate - PostgreSQL 13
-  - Crunchy Data Certified PostgreSQL DBA
   - MongoDB Certified Database Administrator
-  - S101: ScyllaDB Essentials – Overview of ScyllaDB and NoSQL Basics
-  - Oracle Database 12c: Performance Management and Tuning Ed 1
   - Oracle Database 11g Performance Tuning Certified Expert
-  - Oracle 11g: RAC and Grid Infrastructure Administration Accelerated Ed 3
   - Oracle RAC 11g and Grid Infrastructure Administration Certified Expert
   - Oracle Database 12c Administrator Certified Professional
-  - Oracle Real Application Clusters 11g Certified Implementation Specialist (1Z0-593)
   - Oracle Database 11g Administrator Certified Professional
-  - Oracle Database 12c: Managing Multitenant Architecture
   - Oracle Database 11g Security Certified Implementation Specialist
-  - Oracle Database 11g Administrator Certified Associate (1Z0-052)
   - Oracle Database SQL Expert (1Z0-047)
+  - MySQL 8.0 Database Administrator Certified Professional
   - Red Hat Certified System Administrator
+  - Certified in Cybersecurity (CC)
 
 ---
 
@@ -115,13 +106,6 @@ Azerbaijan Technical University
 
 Master's degree, Engineering/Industrial Management
 Sumgayit State University
----
-
-**Projects & Content Creation**
-
-- Contributor to open-source PostgreSQL and Oracle installation scripts and HA configurations on GitHub.
-- Author of detailed blog posts on PostgreSQL, Oracle security, and automation best practices (valehagayev.wordpress.com).
-
 ---
 
 **Languages**
