@@ -29,13 +29,12 @@ January 2018 – Present
 Kibrit LLC - Software Development Company, Baku, Azerbaijan  
 November 2023 – Present
 - Planning and migration of the Database from Oracle to PostgreSQL.
-- Upgraded PostgreSQL database from old version to new major version.
-- Installed and configured new PostgreSQL database Servers.
+- Upgrade PostgreSQL database from an old version to the new major version.
+- Installation and configuration of new PostgreSQL database Servers, extensions, and monitoring tools..
 - Designed and implemented backup and disaster recovery plans for clients.
 - Prepared scripts for migration and configured the DB for optimal migration speed with minimum downtime. After migration, reconfigured the DB for optimal OLTP performance.
-- Configured Replication, Physical, and logical Backups to the remote backup server.
-- Converted the required big tables to partitioned tables.
-- Installed and configured useful PostgreSQL extensions and monitoring tools.
+- Configuration Replication, Physical, and logical Backups to the remote backup server.
+- Migrating the required big tables to partitioned tables.
 
 **Database Administrator & Supervisor (Contract)**  
 UN Climate Change & Kronos, Baku, Azerbaijan  
@@ -49,9 +48,9 @@ during the deployment period and event time.
 - Providing advanced technical support to the ICT onsite team for complex issues.
 - Providing support and escalation between Team Leads and NOC/SOC.
 - Addressing and resolving issues that team leads are unable to handle.
-- Providing Event Management, ServiceDesk Management support.
+- Providing Event Management and ServiceDesk Management support.
 - Preparing reports regarding the problems faced during the event.
-- Coordination with Helpdesk Team and ICT Support Team Leads.
+- Coordination with the Helpdesk Team and ICT Support Team Leads.
 - Follow up on ICT Onsite Team operations and activities in the field.
 - Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
 - Reporting to the Head of ICT Onsite Support and the Senior Service Manager.
@@ -67,10 +66,11 @@ September 2023 – Present
 **Freelance Database Administrator**
 Konfirom, February 2018 - May 2018
 - Migrating Database and Appservers of the ArmoStore supermarket chains
-- Installed and configured new Oracle Linux Database and Application Servers.
-- Configured the Application to work with the new Application and Database Servers.
+- Installed and configured new Oracle Linux OS and Application Servers.
+- Configuration of the Application to work with the new Database Servers.
 - Migrated Oracle Databases from old infrastructure to new servers.
-- Installed and configured Oracle Data Guard, and prepared Oracle backup and recovery strategies.
+- Oracle Data Guard configuration
+- Deploying backup and recovery strategies for databases.
 
 **Technical Skills**
 
