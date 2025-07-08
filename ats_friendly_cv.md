@@ -1,13 +1,13 @@
 Valeh Agayev  
 Baku, Azerbaijan  
-Email: valeh.aghayev@iktex.az | Phone: [Your Phone Number]  
+Email: valeh.aghayev@iktex.az | Phone: +994773000146  
 GitHub: github.com/valehdba | LinkedIn: linkedin.com/in/valehagayev
 
 ---
 
 **Professional Summary**
 
-Experienced Database Administrator with 10+ years managing, tuning, and automating Oracle and PostgreSQL environments across on-premises and cloud infrastructures. Skilled in RMAN, Data Guard, RAC, ASM, Cloud/Grid Control, high availability, and Linux system administration, with a strong focus on database security, backup/recovery, and performance optimization.
+Experienced Database Administrator with 10+ years managing, tuning, and automating Oracle and PostgreSQL environments across on-premises and cloud infrastructures. Skilled in RMAN, Data Guard, RAC, ASM, Cloud/Grid Control, high availability,  Linux system administration, and Kubernetes knowladge with a strong focus on database security, backup/recovery, and performance optimization.
 
 ---
 
@@ -17,7 +17,7 @@ Experienced Database Administrator with 10+ years managing, tuning, and automati
 IKTEX LLC, Baku, Azerbaijan  
 Jan 2018 – Present
 
-- Manage Oracle (10g/11g/12c) and PostgreSQL database installations, configuration, and administration for high-availability systems.
+- Manage Oracle (10g/11g/12c/19c/21c) and PostgreSQL database installations, configuration, and administration for high-availability systems.
 - Implement and monitor RMAN backup strategies, Data Guard configurations, and RAC for mission-critical environments.
 - Optimize database performance through indexing, partitioning, and SQL query tuning, reducing average query time by up to 40%.
 - Automate backup, monitoring, and maintenance tasks using shell scripting and PL/SQL procedures.
