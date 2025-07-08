@@ -1,70 +1,76 @@
 Valeh Agayev  
-Baku, Azerbaijan  
+Address: Baku, Azerbaijan  
 Email: valeh.aghayev@iktex.az | Phone: +994773000146  
 GitHub: github.com/valehdba | LinkedIn: linkedin.com/in/valehagayev
+
+---
+**Professional Summary**
+
+Database Administrator with 7+ years of experience managing Oracle, PostgreSQL, and MySQL environments for high-availability systems. Skilled in performance tuning, database migrations, automation, and backup strategies to ensure mission-critical stability and efficiency. Certified across Oracle, PostgreSQL, and Kubernetes environments.
 
 ---
 
 **Professional Experience**
 
 **Database Administrator**  
-IKTEX LLC - Software Development Company, Baku, Azerbaijan  
-January 2018 – Present
+IKTEX LLC | Software Development Company, Baku, Azerbaijan  
+January 2018 to Present
 
-- Manage Oracle (10g/11g/12c/19c/21c) and PostgreSQL database installations, configuration, and administration for high-availability systems.
+- Administered mission-critical databases with a focus on performance.
+- Managed database upgrades to maintain system performance.
+- Managed Oracle, PostgreSQL, SQL Server, MySQL, MongoDB, and Redis databases (installations, configuration, and high-availability).
 - Implement and monitor RMAN backup strategies, Data Guard configurations, and RAC for mission-critical environments.
-- Optimize database performance through indexing, partitioning, and SQL query tuning, reducing average query time by up to 40%.
+- Optimize database performance through indexing, partitioning, and SQL query tuning.
 - Automate backup, monitoring, and maintenance tasks using shell scripting and PL/SQL procedures.
-- Perform database migrations and upgrades ensuring zero or minimal downtime.
+- Perform database migrations and upgrades, ensuring zero or minimal downtime.
+- Maintained database integrity through regular audits.
 - Ensure database security compliance and manage user access controls.
-- Support Linux (RHEL/CentOS) system administration for database environments.
 
 **Database Administrator & Consultant (Part-time)**  
-Kibrit LLC - Software Development Company, Baku, Azerbaijan  
-November 2023 – Present
-- Planning and migration of the Database from Oracle to PostgreSQL.
-- Upgrade PostgreSQL database from an old version to the new major version.
-- Installation and configuration of new PostgreSQL database Servers, extensions, and monitoring tools..
-- Designed and implemented backup and disaster recovery plans for clients.
+Kibrit LLC | Software Development Company, Baku, Azerbaijan  
+November 2023 to Present
+- Planned and migrated mission-critical Database from Oracle to PostgreSQL.
+- Upgraded the PostgreSQL database from an old version to the new major version.
+- Installed  and configured new PostgreSQL database Servers, extensions, and monitoring tools..
+- Developed and executed comprehensive backup strategies and disaster recovery plans to ensure data integrity and business continuity for client environments.
 - Prepared scripts for migration and configured the DB for optimal migration speed with minimum downtime. After migration, reconfigured the DB for optimal OLTP performance.
-- Configuration Replication, Physical, and logical Backups to the remote backup server.
-- Migrating the required big tables to partitioned tables.
+- Configured Replication, Physical, and logical Backups to the remote backup server.
+- Migrated the required big tables to partitioned tables.
 
 **Database Administrator & Supervisor (Contract)**  
 UN Climate Change & Kronos, Baku, Azerbaijan  
-October 2024 - Nov 2024 
+October 2024 to November 2024 
 - MS SQL Server Management and monitoring.
 - Troubleshooting Database and system infrastructure-related issues.
 - Working in cooperation with Secure Printing Application Managers and System Admins.
 - Instant communication with NOC/SOC to solve complex issues directly.
 - Supervising and coordinating ICT Onsite Support Technicians within the assigned zone
 during the deployment period and event time.
-- Providing advanced technical support to the ICT onsite team for complex issues.
-- Providing support and escalation between Team Leads and NOC/SOC.
-- Addressing and resolving issues that team leads are unable to handle.
-- Providing Event Management and ServiceDesk Management support.
+- Provided advanced technical support to the ICT onsite team for complex issues.
+- Provided support and escalation between Team Leads and NOC/SOC.
+- Addressed and resolved issues that team leads were unable to handle.
+- Provided Event Management and ServiceDesk Management support.
 - Preparing reports regarding the problems faced during the event.
-- Coordination with the Helpdesk Team and ICT Support Team Leads.
+- Coordinated with the Helpdesk Team and ICT Support Team Leads.
 - Follow up on ICT Onsite Team operations and activities in the field.
 - Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
-- Reporting to the Head of ICT Onsite Support and the Senior Service Manager.
 
 **Database Administrator & Consultant (Part-time)**  
-LSIM LLC - Mobile SMS provider, Baku, Azerbaijan  
-September 2023 – Present
-- Provided performance-tuning services to optimize existing database environments.
-- Provided remote Oracle and MySQL database administration, ensuring system stability and data integrity.
-- Designed and implemented backup and disaster recovery plans for clients.
+LSIM LLC | Mobile SMS provider, Baku, Azerbaijan  
+September 2023 to Present
+- Performance-tuning to optimize existing database environments.
+- Oracle and MySQL database administration, ensuring system stability and data integrity.
+- Planned and deployed robust backup and disaster recovery solutions, safeguarding client data and minimizing downtime.
 - Monitoring, troubleshooting, and support of 24/7 mission-critical Oracle and MySQL databases
 
 **Freelance Database Administrator**
-Konfirom, February 2018 - May 2018
-- Migrating Database and Appservers of the ArmoStore supermarket chains
+Konfirom | Supermarket chain, Baku, Azerbaijan 
+February 2018 to May 2018
+- Migrated Database and Appservers of the ArmoStore supermarket chains from old infrastructure to new servers.
 - Installed and configured new Oracle Linux OS and Application Servers.
 - Configuration of the Application to work with the new Database Servers.
-- Migrated Oracle Databases from old infrastructure to new servers.
-- Oracle Data Guard configuration
-- Deploying backup and recovery strategies for databases.
+- Configured Oracle Active Data Guard 
+- Deployed backup and recovery strategies for databases.
 
 **Technical Skills**
 
@@ -77,23 +83,18 @@ Konfirom, February 2018 - May 2018
 ---
 
 **Certifications:**
-  - Oracle Certified Professional, MySQL 8.0 Database Administrator
+  - MySQL 8.0 Database Administrator Certified Professional
   - MySQL Implementation Certified Associate
   - KCNA: Kubernetes and Cloud Native Associate
   - Kubernetes and Cloud-Native Associate (KCNA)
-  - LFS158: Introduction to Kubernetes
-  - JSON Path
   - EDB Certified - PostgreSQL Advanced 16
   - Certified in Cybersecurity (CC)
   - EDB Certified Associate - PostgreSQL 13
   - Crunchy Data Certified PostgreSQL DBA
-  - MongoDB Certified DBA
+  - MongoDB Certified Database Administrator
   - S101: ScyllaDB Essentials – Overview of ScyllaDB and NoSQL Basics
   - Oracle Database 12c: Performance Management and Tuning Ed 1
   - Oracle Database 11g Performance Tuning Certified Expert
-  - Hadoop Foundations - Level 1
-  - Python 101
-  - Big Data Foundations - Level 1
   - Oracle 11g: RAC and Grid Infrastructure Administration Accelerated Ed 3
   - Oracle RAC 11g and Grid Infrastructure Administration Certified Expert
   - Oracle Database 12c Administrator Certified Professional
@@ -103,9 +104,7 @@ Konfirom, February 2018 - May 2018
   - Oracle Database 11g Security Certified Implementation Specialist
   - Oracle Database 11g Administrator Certified Associate (1Z0-052)
   - Oracle Database SQL Expert (1Z0-047)
-  - ISC2 Candidate
   - Red Hat Certified System Administrator
-
 
 ---
 
