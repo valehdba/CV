@@ -82,10 +82,36 @@ Konfirom, Feb 2018 - May 2018
 
 ---
 
-**Certifications**
+**Certifications:**
+  - Oracle Certified Professional, MySQL 8.0 Database Administrator
+  - MySQL Implementation Certified Associate
+  - KCNA: Kubernetes and Cloud Native Associate
+  - Kubernetes and Cloud-Native Associate (KCNA)
+  - LFS158: Introduction to Kubernetes
+  - JSON Path
+  - EDB Certified - PostgreSQL Advanced 16
+  - Certified in Cybersecurity (CC)
+  - EDB Certified Associate - PostgreSQL 13
+  - Crunchy Data Certified PostgreSQL DBA
+  - MongoDB Certified DBA
+  - S101: ScyllaDB Essentials – Overview of ScyllaDB and NoSQL Basics
+  - Oracle Database 12c: Performance Management and Tuning Ed 1
+  - Oracle Database 11g Performance Tuning Certified Expert
+  - Hadoop Foundations - Level 1
+  - Python 101
+  - Big Data Foundations - Level 1
+  - Oracle 11g: RAC and Grid Infrastructure Administration Accelerated Ed 3
+  - Oracle RAC 11g and Grid Infrastructure Administration Certified Expert
+  - Oracle Database 12c Administrator Certified Professional
+  - Oracle Real Application Clusters 11g Certified Implementation Specialist (1Z0-593)
+  - Oracle Database 11g Administrator Certified Professional
+  - Oracle Database 12c: Managing Multitenant Architecture
+  - Oracle Database 11g Security Certified Implementation Specialist
+  - Oracle Database 11g Administrator Certified Associate (1Z0-052)
+  - Oracle Database SQL Expert (1Z0-047)
+  - ISC2 Candidate
+  - Red Hat Certified System Administrator
 
-- Oracle Certified Professional (OCP) [Year]
-- Red Hat Certified System Administrator (RHCSA) [Year]
 
 ---
 
@@ -93,8 +119,9 @@ Konfirom, Feb 2018 - May 2018
 
 Bachelor of Science in Computer Engineering  
 Azerbaijan Technical University  
-Graduation Year: [Year]
 
+Master's degree, Engineering/Industrial Management
+Sumgayit State University
 ---
 
 **Projects & Content Creation**
@@ -117,6 +144,3 @@ Graduation Year: [Year]
 Available upon request.
 
 ---
-
-*Note: Please replace [Your Phone Number], [Year] placeholders with your details for completeness before exporting.*
-
