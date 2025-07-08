@@ -40,20 +40,13 @@ November 2023 to Present
 **Database Administrator & Supervisor (Contract)**  
 UN Climate Change & Kronos, Baku, Azerbaijan  
 October 2024 to November 2024 
-- MS SQL Server Management and monitoring.
+- Managed and monitored a mission-critical MS SQL Server  database of the UN international event.
 - Troubleshooting Database and system infrastructure-related issues.
 - Working in cooperation with Secure Printing Application Managers and System Admins.
 - Instant communication with NOC/SOC to solve complex issues directly.
-- Supervising and coordinating ICT Onsite Support Technicians within the assigned zone
-during the deployment period and event time.
-- Provided advanced technical support to the ICT onsite team for complex issues.
-- Provided support and escalation between Team Leads and NOC/SOC.
-- Addressed and resolved issues that team leads were unable to handle.
-- Provided Event Management and ServiceDesk Management support.
+- Supervising and coordinating ICT Onsite Support Technicians within the assigned zone during the deployment period and event time.
+- Provided support and escalation between Team Leads and NOC/SOC, and addressed and resolved issues that the team leads were unable to handle.
 - Preparing reports regarding the problems faced during the event.
-- Coordinated with the Helpdesk Team and ICT Support Team Leads.
-- Follow up on ICT Onsite Team operations and activities in the field.
-- Follow up on issues in all zones, including computer centers, media centers, and meeting rooms.
 
 **Database Administrator & Consultant (Part-time)**  
 LSIM LLC | Mobile SMS provider, Baku, Azerbaijan  
