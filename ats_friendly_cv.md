@@ -41,12 +41,12 @@ November 2023 to Present
 UN Climate Change & Kronos, Baku, Azerbaijan  
 October 2024 to November 2024 
 - Managed and monitored a mission-critical MS SQL Server  database of the UN international event.
-- Troubleshooting Database and system infrastructure-related issues.
-- Working in cooperation with Secure Printing Application Managers and System Admins.
-- Instant communication with NOC/SOC to solve complex issues directly.
-- Supervising and coordinating ICT Onsite Support Technicians within the assigned zone during the deployment period and event time.
+- Troubleshoot database and system infrastructure-related issues.
+- Worked in cooperation with Secure Printing Application Managers and System Admins.
+- Maintained instant communication with NOC/SOC to solve complex issues directly.
+- Supervised and coordinated ICT Onsite Support Technicians within the assigned zone during the deployment period and event time.
 - Provided support and escalation between Team Leads and NOC/SOC, and addressed and resolved issues that the team leads were unable to handle.
-- Preparing reports regarding the problems faced during the event.
+- Prepared reports regarding the problems faced during the event.
 
 **Database Administrator & Consultant (Part-time)**  
 LSIM LLC | Mobile SMS provider, Baku, Azerbaijan  
