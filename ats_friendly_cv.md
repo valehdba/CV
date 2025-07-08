@@ -31,9 +31,18 @@ Remote
 
 - Provided remote Oracle and PostgreSQL database administration for SMEs and startups, ensuring system stability and data integrity.
 - Designed and implemented backup and disaster recovery plans for clients.
-- Provided performance tuning services to optimize existing database environments.
+- Provided performance-tuning services to optimize existing database environments.
 
----
+**Part-time Database Administrator & Consultant**  
+Kibrit LLC, Baku, Azerbaijan  
+Nov 2023 – Present
+Planning and migration of the Database from Oracle to PostgreSQL.
+Upgraded PostgreSQL database from old version to new major version.
+Installed and configured new PostgreSQL database Servers.
+Prepared scripts for migration and configured the DB for optimal migration speed with minimum downtime. After migration, reconfigured the DB for optimal OLTP performance.
+Configured Replication, Physical, and logical Backups to the remote backup server.
+Converted the required big tables to partitioned tables.
+Installed and configured useful PostgreSQL extensions and monitoring tools.
 
 **Technical Skills**
 
