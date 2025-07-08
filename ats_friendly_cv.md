@@ -5,12 +5,6 @@ GitHub: github.com/valehdba | LinkedIn: linkedin.com/in/valehagayev
 
 ---
 
-**Professional Summary**
-
-Experienced Database Administrator with 10+ years managing, tuning, and automating Oracle and PostgreSQL environments across on-premises and cloud infrastructures. Skilled in RMAN, Data Guard, RAC, ASM, Cloud/Grid Control, high availability,  Linux system administration, and Kubernetes knowladge with a strong focus on database security, backup/recovery, and performance optimization.
-
----
-
 **Professional Experience**
 
 **Database Administrator**  
@@ -136,11 +130,5 @@ Sumgayit State University
 - Azerbaijani (Native)
 - English (Professional Working Proficiency)
 - Russian (Professional Working Proficiency)
-
----
-
-**References**
-
-Available upon request.
 
 ---
